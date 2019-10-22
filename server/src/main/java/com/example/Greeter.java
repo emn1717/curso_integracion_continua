@@ -22,20 +22,4 @@ public class Greeter {
     else{
         return String.format("Hello, %s!", someone);
     }
-    if{true}
-      lalala= new Long("45676");
-  }
-     }
-    if{true}
-      lalala= new Long("45676");
-  }
-   }
-    if{true}
-      lalala= new Long("45676");
-   }
-    if{true}
-      lalala= new Long("45676");
-  }
-  }
-  }
 }
